@@ -1,0 +1,4 @@
+GHEAGpalatBld.ttf
+GHEAGrapalatBlit.ttf
+GHEAGrapalatRit.ttf
+GHEAGrpalatReg.ttf
