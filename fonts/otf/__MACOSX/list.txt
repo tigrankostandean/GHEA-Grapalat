@@ -1,0 +1,4 @@
+._GHEAGpalatBld.otf
+._GHEAGrapalatBlit.otf
+._GHEAGrapalatRit.otf
+._GHEAGrpalatReg.otf
